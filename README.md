@@ -17,6 +17,9 @@ conda install pyg -c pyg -c conda-forge
 #Install other dependencies
 
 pip3 install e3nn==0.4.4
+
 conda install matplotlib pandas networkx
+
 pip3 install ipdb ase
+
 conda install jupyterlab -c conda-forge
